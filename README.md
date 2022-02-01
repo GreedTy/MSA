@@ -1,6 +1,6 @@
 # E-commerce (MSA Architecture)
 
-## MSA목록
+## MSA Component
  - SpringCloudEureka : https://github.com/GreedTy/SpringEurekaService
  - SpringCloudGateway : https://github.com/GreedTy/SpringCloudGateway
  - SpringCloudConfig & SpringCloudConfig(yml) : https://github.com/GreedTy/SpringCloudConfigServer & https://github.com/GreedTy/spring-cloud-config
