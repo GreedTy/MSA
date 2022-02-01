@@ -9,7 +9,7 @@
 ## 기술스텍
  - App : SpringBoot 2.6.3 / Java JDK 11(G1GC)
    - Dependency : SpringEureka&Eureka-client, SpringGateway, SpringConfig-Server&Config, OpenFeign, Resilience4j, SpringSleuth, Actuator, JPA, Security, JWT
- - Middleware : Kafka&Kafka-connect, RabbitMQ, 
+ - Middleware : Kafka&Kafka-connect(user, order, catalog Data Sync), RabbitMQ(SpringCloudBus(config.yml push용도), 
  - Monitoring : Prometheus, Grafana, Zipkin
  - Database : MariaDB, H2
 
