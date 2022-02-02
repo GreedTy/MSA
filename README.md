@@ -13,6 +13,13 @@
  - Monitoring : Prometheus, Grafana, Zipkin
  - Database : MariaDB, H2
 
+## Architecture1
+![MSA](https://user-images.githubusercontent.com/35190067/152096136-32fa317d-1958-4ab2-948c-1e787c03a4d3.png)
+
+## Architecture2
+![MSA_OneDB](https://user-images.githubusercontent.com/35190067/152096143-fe091e9a-88dc-49c8-a956-94ea548cedf5.png)
+
+
 ## Eureka
 <img width="1326" alt="스크린샷 2022-02-01 오후 12 30 19" src="https://user-images.githubusercontent.com/35190067/151914270-fc6c5b78-b986-491b-bbed-cb2c279f924a.png">
 
